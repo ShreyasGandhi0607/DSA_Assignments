@@ -1,3 +1,5 @@
+package AssignmentBasics;
+
 import java.util.Scanner;
 
 class EvenOdd{
